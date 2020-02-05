@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5d20dc65eb83b8000111e341@squarespace.com
+DTSTAMP:20191117T180752Z
+DTSTART:20191120T173000Z
+DTEND:20191120T190000Z
+SUMMARY:Beyond Silicon Valley: Roundtable Discussion on Entrepreneurship in 
+ Venezuela
+GEO:41.500589;-81.605677
+LOCATION:think [box]\, Richey Mixon Building\, 11201 Cedar Ave\, Cleveland\
+ , OH 44106\, United States
+END:VEVENT
+END:VCALENDAR

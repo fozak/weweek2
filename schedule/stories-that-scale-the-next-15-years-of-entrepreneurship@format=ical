@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5da4f591aecf5309147b8a94@squarespace.com
+DTSTAMP:20191113T203359Z
+DTSTART:20191120T200000Z
+DTEND:20191120T230000Z
+SUMMARY:Stories That Scale: The Next 15 Years Of Entrepreneurship
+GEO:41.0719;-81.527003
+LOCATION:Bounce Innovation Hub\, 526 s main St. Suite\, Akron\, United Stat
+ es
+END:VEVENT
+END:VCALENDAR

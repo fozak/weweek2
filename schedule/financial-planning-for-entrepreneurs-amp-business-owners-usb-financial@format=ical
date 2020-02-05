@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5da0cfadbdafb2379be7ef68@squarespace.com
+DTSTAMP:20191107T170646Z
+DTSTART:20191118T143000Z
+DTEND:20191118T160000Z
+SUMMARY:Financial Planning for Entrepreneurs &amp\; Business Owners
+GEO:41.50138;-81.689573
+LOCATION:UBS Financial Services\, 600 Superior Avenue E\, Cleveland\, OH 44
+ 114\, United States
+END:VEVENT
+END:VCALENDAR
